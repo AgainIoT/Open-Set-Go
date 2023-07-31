@@ -1,0 +1,49 @@
+{
+  "name": "open-set-go",
+  "version": "1.0.0",
+  "description": "Open Source Project Toolkit",
+  "main": "app.js",
+  "repository": "https://github.com/AgainIoT/Open-Set-Go.git",
+  "author": "AgainIoT",
+  "private": true,
+  "dependencies": {
+    "@mui/material": "^5.14.2",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-query": "^3.39.3",
+    "react-router-dom": "^6.14.2",
+    "react-scripts": "5.0.1",
+    "recoil": "^0.7.7",
+    "styled-components": "^5.3.11",
+    "styled-reset": "^4.5.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
