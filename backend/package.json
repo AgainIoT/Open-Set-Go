@@ -5,6 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/AgainIoT/Open-Set-Go.git",
   "author": "AgainIoT",
+  "license" : "Apache-2.0",
   "type": "module",
   "dependencies": {
     "@octokit/core": "^5.0.0",
