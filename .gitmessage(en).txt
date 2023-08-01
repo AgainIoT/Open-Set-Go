@@ -1,0 +1,23 @@
+
+################
+# <Type> : <Title> #<Issue Number>
+# Title is no more than 50 characters / Make clear "what" changes / Do not end with a period
+# example) Feat : Login Feature Added
+# Do not clear the space immediately below (for separation of title and body)
+################
+# Create a body (specific content) on the bottom line
+# Separate multiple lines of messages with "-" (one line is not more than 72 characters)
+################
+# Init : Development Environment Initial Setting
+# Feat : Add New Features
+# Fix : Fix Bugs
+# Update: Unlike Fix, it originally operated normally, but the concept of complement
+# Remove: When deleting a file
+# Move : When moving a code or file
+# Rename: To modify a file or folder name
+# Docs: If the document is modified
+# Comment: Add and change required annotations
+# Refactor: Code refactoring (reorganizing code without changing results, increasing readability)
+# Test : Test code
+# Core: Other minor modifications
+################

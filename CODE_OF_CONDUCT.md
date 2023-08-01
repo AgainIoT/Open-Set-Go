@@ -1,5 +1,7 @@
 # 기여자 행동 강령 규약
 
+_English version of [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT(en).md)_
+
 ## 서약
 
 우리는 구성원, 기여자 및 리더로서 커뮤니티에 참여하여
