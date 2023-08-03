@@ -11,7 +11,7 @@ parserOptions:
 plugins:
   - react
 rules:
-    indent:
+  indent:
     - "error"
     - 2
     - { MemberExpression: "off", SwitchCase: 1 }

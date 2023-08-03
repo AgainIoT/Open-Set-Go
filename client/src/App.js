@@ -3,8 +3,9 @@ import { RecoilRoot } from "recoil";
 import Router from "./core/router";
 import GlobalStyle from "./styles/globalStyle";
 import "./App.css";
+import React from "react";
 
-function App() {
+const App = () => {
   return (
     <StyledEngineProvider injectFirst>
       <RecoilRoot>
@@ -13,6 +14,6 @@ function App() {
       </RecoilRoot>
     </StyledEngineProvider>
   );
-}
+};
 
 export default App;
