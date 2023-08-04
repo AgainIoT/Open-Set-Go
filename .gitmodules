@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/AgainIoT/Open-Set-Go_client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/AgainIoT/Open-Set-Go_server.git
