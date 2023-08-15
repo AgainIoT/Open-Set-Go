@@ -60,8 +60,7 @@ We are conducting documentation at Open-Set-Go.io and GitHub Wiki. Please refer 
 - <a href="https://github.com/AgainIoT/Open-Set-Go/wiki">GitHub Wiki</a>
 
 ## Contributing
-We always welcome your contributions. <br>
-Please see the <a href="./CONTRIBUTING.md">CONTRIBUTING.md</a> for how to contribute. <br>
+We always welcome your contributions. Please see the <a href="./CONTRIBUTING.md">CONTRIBUTING.md</a> for how to contribute. <br>
 Also, we are recruiting collaborators, so if you are interested, please [contact us](mailto:yunminwo1211@gmail.com).
 
 ## Contributors
@@ -81,7 +80,8 @@ Thank you to everyone who contributed to our project.
 <a href="https://github.com/AgainIoT/Open-Set-Go_server/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AgainIoT/Open-Set-Go_server"/>
 </a>
-<div style="text-align: right">Made with <a href="https://contrib.rocks">contrib.rocks</a></div>
+
+*<div align=right>Made with <a href="https://contrib.rocks">contrib.rocks</a></div>*
 
 ## License
 **Open-Set-Go** is released under <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache-2.0 License</a>.<br>
