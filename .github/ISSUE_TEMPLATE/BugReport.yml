@@ -1,0 +1,81 @@
+---
+name: "🐛 Bug Report"
+description: Report a bug
+title: "🐛 [BUG] - <title>"
+labels: ["bug"]
+assignees: []
+
+body:
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: "Browsers"
+      description: What browsers are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+        - Opera
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: "OS"
+      description: What is the impacted environment?
+      multiple: true
+      options:
+        - Windows
+        - Linux
+        - Mac
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: Enter an explicit description of your issue and explain the bug briefly and clearly.
+    validations:
+      required: true
+
+  - type: input
+    id: reprod-url
+    attributes:
+      label: "Reproduction URL"
+      description: Add a URL related to the bug.
+      placeholder: ex) https://github.com/USERNAME/REPO-NAME
+    validations:
+      required: true
+
+  - type: textarea
+    id: reprod-steps
+    attributes:
+      label: "Reproduction Steps"
+      description: Explain your issue step by step.
+      render: bash
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: "Solutions"
+      description: If you have a solution, please share it.
+      render: bash
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "Screenshots"
+      description: Add screenshots to help explain your problem.
+      value: |
+        ![DESCRIPTION](LINK.png)
+      render: bash
+    validations:
+      required: false

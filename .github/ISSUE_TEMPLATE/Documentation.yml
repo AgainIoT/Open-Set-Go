@@ -1,0 +1,34 @@
+---
+name: "📕 Documentation Issue"
+description: Report an issue in the Developer Guide
+title: "📕 [DOCS] - <title>"
+labels: [documentation]
+assignees: []
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe"
+      description: A clear and concise description of the issue.
+    validations:
+      required: true
+
+  - type: input
+    id: links
+    attributes:
+      label: "Links"
+      description: Include links to affected documentation page.
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "Screenshots"
+      description: Add screenshots to help explain your problem.
+      value: |
+        ![DESCRIPTION](LINK.png)
+      render: bash
+    validations:
+      required: false
