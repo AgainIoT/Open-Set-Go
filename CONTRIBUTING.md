@@ -74,12 +74,12 @@ You can view Submission Guidelines for each Server/Client from the link below.
 - [Server Development Settings](https://github.com/AgainIoT/Open-Set-Go_server/blob/main/CONTRIBUTING.md#submission-guidelines)
   <br><br>
 
-## Develoment Setting
+## Development Setting
 
 You can view Development Settings for each Server/Client from the link below.
 
-- [Client Development Settings](https://github.com/AgainIoT/Open-Set-Go_client/blob/main/CONTRIBUTING.md#develoment-setting)
-- [Server Development Settings](https://github.com/AgainIoT/Open-Set-Go_server/blob/main/CONTRIBUTING.md#develoment-setting)
+- [Client Development Settings](https://github.com/AgainIoT/Open-Set-Go_client/blob/main/CONTRIBUTING.md#development-setting)
+- [Server Development Settings](https://github.com/AgainIoT/Open-Set-Go_server/blob/main/CONTRIBUTING.md#development-setting)
   <br><br>
 
 ## Code of Conduct
