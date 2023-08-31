@@ -137,7 +137,7 @@ _You can apply .gitmessage.txt in the same way as above!_
 <Content>
 ```
 
-Samples
+#### Samples
 
 ```
 Feat : New feature added! #24
