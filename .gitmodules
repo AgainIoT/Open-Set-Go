@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/AgainIoT/Open-Set-Go_server.git
+[submodule "document"]
+	path = document
+	url = https://github.com/AgainIoT/Open-Set-Go.io
