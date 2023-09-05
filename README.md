@@ -15,8 +15,8 @@
   <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAgainIoT%2FOpen-Set-Go?ref=badge_shield" target="_blank"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAgainIoT%2FOpen-Set-Go.svg?type=shield&issueType=license" alt="Fossa License Scan" /></a>
   <a href="https://join.slack.com/t/open-set-go/shared_invite/zt-21jwlzs9g-qrajfUblcCtmCqAy0Xxj8w" target="_blank"><img src="https://img.shields.io/badge/Slack-online-brightgreen.svg" alt="Slack"/></a>
   <a href="https://github.com/AgainIoT/Open-Set-Go/graphs/contributors" target="_blank"><img src="https://img.shields.io/github/contributors-anon/AgainIoT/Open-Set-Go" alt="contributors" /></a>
-  <a href="https://github/AgainIoT/Open-Set-Go"><img src="https://img.shields.io/github/last-commit/AgainIoT/Open-Set-Go" alt="Open-Set-Go stars" /></a>
-  <a href="https://github/AgainIoT/Open-Set-Go"><img src="https://img.shields.io/github/stars/AgainIoT/Open-Set-Go" alt="Open-Set-Go stars" /></a>
+  <a href="https://github.com/AgainIoT/Open-Set-Go"><img src="https://img.shields.io/github/last-commit/AgainIoT/Open-Set-Go" alt="Open-Set-Go stars" /></a>
+  <a href="https://github.com/AgainIoT/Open-Set-Go"><img src="https://img.shields.io/github/stars/AgainIoT/Open-Set-Go" alt="Open-Set-Go stars" /></a>
 </p>
 
 <br>
