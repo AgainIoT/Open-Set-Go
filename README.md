@@ -15,13 +15,12 @@
    <a href="https://www.open-set-go.com"><img src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fwww.open-set-go.com&logo=w3c&label=validation" alt="w3c validation check" /></a>
   <a href="https://www.open-set-go.com"><img src="https://img.shields.io/netlify/8a6fd2e8-3678-439f-9ba4-8aec0cb2f9ad?logo=netlify" alt="Netlify status" /></a>
   <a href="https://join.slack.com/t/open-set-go/shared_invite/zt-21jwlzs9g-qrajfUblcCtmCqAy0Xxj8w" target="_blank"><img src="https://img.shields.io/badge/slack-online-brightgreen.svg?logo=slack" alt="Slack"/></a>
-  <a href="https://github.com/AgainIoT/Open-Set-Go"><img src="  https://img.shields.io/github/v/release/AgainIoT/Open-Set-Go?logo=github" alt="github release" /></a>
+  <a href="https://github.com/AgainIoT/Open-Set-Go"><img src="https://img.shields.io/github/v/release/AgainIoT/Open-Set-Go?logo=github" alt="github release" /></a>
   <a href="https://github.com/AgainIoT/Open-Set-Go"><img src="https://img.shields.io/github/release-date/AgainIoT/Open-Set-Go?color=blue&logo=github" alt="github last release date" /></a>
   <a href="/LICENSE"><img src="https://img.shields.io/github/license/AgainIoT/Open-Set-Go?logo=github&color=blue" alt="github License" /></a>
   <a href="https://github.com/AgainIoT/Open-Set-Go/graphs/contributors" target="_blank"><img src="https://img.shields.io/github/contributors-anon/AgainIoT/Open-Set-Go?logo=github&color=blue" alt="github contributors" /></a>
   <a href="https://github.com/AgainIoT/Open-Set-Go"><img src="https://img.shields.io/github/stars/AgainIoT/Open-Set-Go?logo=github" alt="github stars" /></a>
-  <a href="https://github.com/AgainIoT/Open-Set-Go"><img src="  https://img.shields.io/github/discussions/AgainIoT/Open-Set-Go?logo=github&color=blue
-" alt="github discussions" /></a>
+  <a href="https://github.com/AgainIoT/Open-Set-Go"><img src="https://img.shields.io/github/discussions/AgainIoT/Open-Set-Go?logo=github&color=blue" alt="github discussions" /></a>
 </p>
 
 <h4 align="center">
@@ -39,7 +38,7 @@ _<div align=center>Please contribute to translation so that more people can use 
 
 **Open-Set-Go** is the `Open-Source Management Platform` for Open-Source Developers. Open-Set-Go provides the creation of new open-source projects and operational review for existing projects.
 
-**Open-Set-Go** is dependent on **:octocat: GitHub**, and the GitHub OAuth 2.0 authorization process allows you analyze, create, and requests Pull-Request from your(or your organization's) GitHub repository.
+**Open-Set-Go** is dependent on **:octocat:GitHub**, and the GitHub OAuth 2.0 authorization process allows you analyze, create, and requests Pull-Request from your(or your organization's) GitHub repository.
 
 - Create [Pull-Request Template](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), [Issue Templates](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue), [README.md](https://docs.github.com/ko/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes), [CONTRIBUTING.md](https://mozillascience.github.io/working-open-workshop/contributing/) with Open-Set-Go!
 
