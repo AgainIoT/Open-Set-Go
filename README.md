@@ -23,15 +23,6 @@
   <a href="https://github.com/AgainIoT/Open-Set-Go"><img src="https://img.shields.io/github/discussions/AgainIoT/Open-Set-Go?logo=github&color=blue" alt="github discussions" /></a>
 </p>
 
-<h4 align="center">
-    <p>
-        <b>English</b> |
-        <a href="https://github.com/AgainIoT/Open-Set-Go/">한국어</a>
-    </p>
-</h4>
-
-_<div align=center>Please contribute to translation so that more people can use this service!</div>_
-
 <br>
 
 ## What is the **Open-Set-Go**?
