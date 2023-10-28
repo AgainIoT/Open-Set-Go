@@ -95,7 +95,7 @@ Open-Set-Go makes it easy, fast and simple to start an Open-Source project, whil
    ######################################
    ```
 
-2. Install with install.sh! (or check each other repository of [client](https://github.com/AgainIoT/Open-Set-Go_client#installation--development-environment) & [server](<(https://github.com/AgainIoT/Open-Set-Go_server#installation--development-environment)>)!)
+2. Install with install.sh! (or check each other repository of [client](https://github.com/AgainIoT/Open-Set-Go_client#installation--development-environment) & [server](https://github.com/AgainIoT/Open-Set-Go_server#installation--development-environment)!)
 
    ```bash
    sudo bash ./install.sh
