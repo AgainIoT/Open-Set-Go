@@ -72,29 +72,48 @@ Open-Set-Go makes it easy, fast and simple to start an Open-Source project, whil
 
 ## Installation & Development Environment
 
-| Supported Environment | Version          | Description                                          |
-| --------------------- | ---------------- | ---------------------------------------------------- |
-| Ubuntu OS             | Ubuntu 22.04 LTS | Open-Set-Go_server was developed by Ubuntu OS        |
-| Windows OS            | Windows 11       | Open-Set-Go_client was developed by Windows 11       |
-| Node.js               | >= 18.x          | @ocotokit/rest & styled-reset require >= node v18.x  |
-| @nestjs/cli           | 9.5.0            | Open-Set-Go_server is configured by NestJS           |
-| yarn                  | 1.22.19          | Open-Set-Go server & client manage package with yarn |
+| Supported Environment | Version      | Description                                          |
+| --------------------- | ------------ | ---------------------------------------------------- |
+| Ubuntu OS             | Ubuntu 22.04 | Open-Set-Go_server was developed by Ubuntu OS        |
+| Windows OS            | Windows 11   | Open-Set-Go_client was developed by Windows 11       |
+| Node.js               | >= 18.x      | @ocotokit/rest & styled-reset require >= node v18.x  |
+| yarn                  | 1.22.19      | Open-Set-Go server & client manage package with yarn |
 
-```bash
-git clone --recursive https://github.com/AgainIoT/Open-Set-Go.git
+1. Clone our repository!
 
-######################################
-# Open-Set-Go Repository Dependencies
-#
-# Open-Set-Go
-#  ┣ Open-Set-Go.io
-#  ┣ Open-Set-Go_client
-#  ┗ Open-Set-Go_server
-#
-######################################
-```
+   ```bash
+   git clone --recursive https://github.com/AgainIoT/Open-Set-Go.git
 
-See more details at Open-Set-Go's <a href="https://github.com/AgainIoT/Open-Set-Go_client">client</a> & <a href="https://github.com/AgainIoT/Open-Set-Go_server">server</a> repository
+   ######################################
+   # Open-Set-Go Repository Dependencies
+   #
+   # Open-Set-Go
+   #  ┣ Open-Set-Go.io
+   #  ┣ Open-Set-Go_client
+   #  ┗ Open-Set-Go_server
+   #
+   ######################################
+   ```
+
+2. Install with install.sh! (or check each other repository of [client](https://github.com/AgainIoT/Open-Set-Go_client#installation--development-environment) & [server](<(https://github.com/AgainIoT/Open-Set-Go_server#installation--development-environment)>)!)
+
+   ```bash
+   sudo bash ./install.sh
+   ```
+
+   <img src="./.github/images/install.gif" width=400>
+
+3. Add .env with env.sh! (more details at [EnvironmentVariable.md](./EnvironmentVariable.md))
+
+   ```bash
+   sudo bash ./env.sh
+   ```
+
+4. Excute each of client & server with `yarn start`!
+
+   ```bash
+   yarn start
+   ```
 
 ## Documentation
 
