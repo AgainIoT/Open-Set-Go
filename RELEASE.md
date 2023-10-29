@@ -13,7 +13,7 @@
 | ------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------- |
 | PM & TA & QA | Project Manager<br>Backend Leader<br>Open Source Manager<br>Technical Writer<br>Quality Assurance | NestJS & MongoDB & Cloud Run & Shell Script | [Yun Min Woo (ymw0407)](https://github.com/ymw0407)       |
 | PL           | Frontend Leader<br>Open Source Manager                                                            | React                                       | [An Chae Yeong (ancy0)](https://github.com/ancy0)         |
-| Developer    | Backend & Frontend Developer<br>Open Source Manager                                               | NestJS & React                              | [bent_shrimp (bentshrimp)](https://github.com/bentshrimp) |
+| Developer    | Frontend Developer<br>Open Source Manager                                               | NestJS & React                              | [bent_shrimp (bentshrimp)](https://github.com/bentshrimp) |
 | Developer    | Frontend Developer                                                                                | React                                       | [hummingbbird](https://github.com/hummingbbird)           |
 | Developer    | Backend & Frontend Developer<br>Technical Writer                                                  | NestJS & React & Hugo                       | [Kim-JiYun (Kim-Jiyun)](https://github.com/Kim-Jiyun)     |
 
