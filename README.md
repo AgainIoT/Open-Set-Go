@@ -79,6 +79,12 @@ Open-Set-Go makes it easy, fast and simple to start an Open-Source project, whil
 | Node.js               | >= 18.x      | @ocotokit/rest & styled-reset require >= node v18.x  |
 | yarn                  | 1.22.19      | Open-Set-Go server & client manage package with yarn |
 
+- Install easily with [install.sh](#install-with-script)
+- Install manually at [Open-Set-Go_client](https://github.com/AgainIoT/Open-Set-Go_client#install-manually)'s repository & [Open-Set-Go_server](https://github.com/AgainIoT/Open-Set-Go_server#install-manually)'s repository
+- Install with Docker! (Installation through Docker is still supported only by the [server](https://github.com/AgainIoT/Open-Set-Go_server#install-with-docker).)
+
+### Install with script
+
 1. Clone our repository!
 
    ```bash
