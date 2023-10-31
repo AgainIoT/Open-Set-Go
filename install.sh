@@ -86,13 +86,14 @@ check_nodejs_installed() {
 
     if ! command -v node &>/dev/null; then
         echo -e "\r[✘] Node.js is not installed!"
+        finish
         install_nodejs_confirm
         exit 0
     else
         printf "\r%*s\r" "${COLUMNS:-$(tput cols)}" ""
         echo -e "\r[✔] Node.js is already installed!"
+        finish
     fi
-    finish
 }
 
 check_nodejs_version() {
@@ -107,13 +108,14 @@ check_nodejs_version() {
     if [ "$major_version" -ge 18 ]; then
         printf "\r%*s\r" "${COLUMNS:-$(tput cols)}" ""
         echo -e "\r[✔] Node.js version is $node_version!"
+        finish
     else
         printf "\r%*s\r" "${COLUMNS:-$(tput cols)}" ""
         echo -e "\r[✘] Node.js version $node_version is not supported (should be 18 or higher)!"
+        finish
         install_nodejs_confirm
         exit 0
     fi
-    finish
 }
 
 install_nodejs() {
