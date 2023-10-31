@@ -60,7 +60,7 @@ It provides an open-source operation review feature for three areas for the open
 
 ## Vision of **Open-Set-Go**
 
-Can see our vision for the foreseeable future at [our project's milestone](https://github.com/AgainIoT/Open-Set-Go/milestones) & [our wiki](https://github.com/AgainIoT/Open-Set-Go/wiki). <br>
+Can see our vision for the foreseeable future at [our wiki](https://github.com/AgainIoT/Open-Set-Go/wiki). <br>
 
 Open-Set-Go is moving toward an Open-Source project management platform that can manage more parts. Join [Slack](https://join.slack.com/t/open-set-go/shared_invite/zt-21jwlzs9g-qrajfUblcCtmCqAy0Xxj8w) if you want to join us!
 
