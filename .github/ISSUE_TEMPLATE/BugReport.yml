@@ -1,11 +1,19 @@
 ---
 name: "🐛 Bug Report"
-description: Report a bug
+description: Bug report from the service perspective of Open-Set-Go.
 title: "🐛 [BUG] - <title>"
 labels: ["bug"]
 assignees: []
 
 body:
+  - type: markdown
+    attributes:
+      value: >
+        #### 🔔 Notification
+
+        The Bug Report in Open-Set-Go deals with bugs from the service perspective, not bugs in code.<br>
+        If it is judged to be an error from the perspective of Client or Server, please report it to the Bug Report of [Open-Set-Go_client](https://github.com/AgainIoT/Open-Set-Go_client/issues/new?assignees=&labels=bug&projects=&template=BugReport.yml&title=%F0%9F%90%9B+%5BBUG%5D+-+%3Ctitle%3E) and the Bug Report of [Open-Set-Go_server](https://github.com/AgainIoT/Open-Set-Go_server/issues/new?assignees=&labels=bug&projects=&template=BugReport.yml&title=%F0%9F%90%9B+%5BBUG%5D+-+%3Ctitle%3E), respectively! 🚀
+
   - type: dropdown
     id: browsers
     attributes:
@@ -18,6 +26,7 @@ body:
         - Safari
         - Microsoft Edge
         - Opera
+        - Others
     validations:
       required: true
 
@@ -31,6 +40,7 @@ body:
         - Windows
         - Linux
         - Mac
+        - Others
     validations:
       required: true
 
@@ -47,7 +57,7 @@ body:
     attributes:
       label: "Reproduction URL"
       description: Add a URL related to the bug.
-      placeholder: ex) https://github.com/USERNAME/REPO-NAME
+      placeholder: ex) https://www.open-set-go.com/review
     validations:
       required: true
 
@@ -56,7 +66,6 @@ body:
     attributes:
       label: "Reproduction Steps"
       description: Explain your issue step by step.
-      render: bash
     validations:
       required: true
 
@@ -65,7 +74,6 @@ body:
     attributes:
       label: "Solutions"
       description: If you have a solution, please share it.
-      render: bash
     validations:
       required: false
 
@@ -76,6 +84,5 @@ body:
       description: Add screenshots to help explain your problem.
       value: |
         ![DESCRIPTION](LINK.png)
-      render: bash
     validations:
       required: false

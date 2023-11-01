@@ -6,6 +6,23 @@ labels: [documentation]
 assignees: []
 
 body:
+  - type: markdown
+    attributes:
+      value: >
+        #### 🔔 Notification
+
+        Thank you for wanting to make Open-Set-Go better!<br>
+        Please fill in much of the following form as you're able.
+
+  - type: input
+    id: links
+    attributes:
+      label: "Links"
+      description: Include links to affected documentation page.
+      placeholder: ex) https://docs.open-set-go.com
+    validations:
+      required: true
+
   - type: textarea
     id: description
     attributes:
@@ -13,22 +30,3 @@ body:
       description: A clear and concise description of the issue.
     validations:
       required: true
-
-  - type: input
-    id: links
-    attributes:
-      label: "Links"
-      description: Include links to affected documentation page.
-    validations:
-      required: true
-
-  - type: textarea
-    id: screenshot
-    attributes:
-      label: "Screenshots"
-      description: Add screenshots to help explain your problem.
-      value: |
-        ![DESCRIPTION](LINK.png)
-      render: bash
-    validations:
-      required: false

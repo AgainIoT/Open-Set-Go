@@ -1,0 +1,50 @@
+---
+name: "🛸 Environment Request"
+description: Request for an environment like the framework that Open-Set-Go will support!
+title: "🛸 [Environment Request] - <title>"
+labels: [environment-request]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: >
+        #### 🔔 Notification
+
+        Issue requesting template to enter Find Template in Open-Set-Go! Problematic templates can be removed arbitrarily.
+
+  - type: input
+    id: environment
+    attributes:
+      label: "Environment"
+      description: Please request for any environment you would like Open-Set-Go to support!
+      placeholder: Language/Framework (ex. TypeScript(Node.js)/NestJS)
+    validations:
+      required: true
+
+  - type: input
+    id: repository
+    attributes:
+      label: "Repository"
+      description: Please let me know by posting the template of the environment you would like to be supported on GitHub!
+      placeholder: Owner/Repository (ex. AgainIoT/Open-Set-Go)
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Popularity Metric
+      description: >-
+        Provide either a [Similarweb rank](https://www.similarweb.com), which must range from 0-500,000 to qualify
+        or the number of GitHub stars, which must be above 5,000 to qualify. If
+        Similarweb does not have a rank for your brand or these numbers do not meet
+        our requirements, you can still open the issue. In this case, please provide
+        any information regarding the brand's popularity you think is relevant.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe"
+      description: Fill out additional parts or reference links that you need to know.
+    validations:
+      required: false

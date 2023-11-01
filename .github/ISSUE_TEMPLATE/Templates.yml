@@ -1,0 +1,66 @@
+---
+name: 📃 Template Request
+description: Add Templates(Pull-Request, Issue Templates, README.md, CONTRIBUTING.md) Available in Open-Set-Go
+title: "📃 [TEMPLATE REQUEST] - <title>"
+labels: [template-request]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: >
+        #### 🔔 Notification
+        Issue requesting template to enter Find Template in Open-Set-Go! Problematic templates can be removed arbitrarily.
+
+  - type: dropdown
+    id: templates
+    attributes:
+      label: "Templates"
+      description: What template would you like to suggest to us?
+      multiple: false
+      options:
+        - Pull-Request Template
+        - Issue Templates
+        - README.md
+        - CONTRIBUTING.md
+    validations:
+      required: true
+
+  - type: input
+    id: owner-repo
+    attributes:
+      label: "Owner/Repository"
+      description: Please enter the owner and repository name of the template you want to suggest!
+      placeholder: owner/repository (ex. AgainIoT/Open-Set-Go)
+    validations:
+      required: true
+
+  - type: input
+    id: stars
+    attributes:
+      label: GitHub Stars
+      description: Please enter the number of stars in the repository of the template you want to suggest!
+      placeholder: 30032 (not 30k)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: license
+    attributes:
+      label: "License"
+      description: Please enter the licnese of the template you want to suggest! (Currently, only the following licenses are allowed!)
+      multiple: false
+      options:
+        - Apache License 2.0
+        - MIT
+        - BSD-3-Clause
+    validations:
+      required: true
+
+  - type: textarea
+    id: content
+    attributes:
+      label: "Content"
+      description: Enter a content of the template you want to suggest!
+    validations:
+      required: true
