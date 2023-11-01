@@ -20,7 +20,7 @@ body:
       label: "Reasons"
       description: Explain why this function is necessary.
     validations:
-        required: true
+      required: true
 
   - type: textarea
     id: how-to

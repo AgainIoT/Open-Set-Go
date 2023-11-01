@@ -1,6 +1,18 @@
 ---
 blank_issues_enabled: true
 contact_links:
-  - name: 💬 General Question
+  - name: Feature Suggestion
+    url: https://github.com/AgainIoT/Open-Set-Go/discussions/categories/feature-suggestion-share-ideas
+    about: If you have any features or good ideas you'd like to add, please post them on Discussion!
+
+  - name: Feature Request for Client
+    url: https://github.com/AgainIoT/Open-Set-Go_client/issues/new?assignees=&labels=feature-request&projects=&template=FeatureRequest.yml&title=%F0%9F%9A%80+%5BREQUEST%5D+-+%3Ctitle%3E
+    about: If you have any features you would like to add directly to your client, please upload them to the Open-Set-Go_client repository!
+
+  - name: Feature Request for Server
+    url: https://github.com/AgainIoT/Open-Set-Go_server/issues/new?assignees=&labels=feature-request&projects=&template=FeatureRequest.yml&title=%F0%9F%9A%80+%5BREQUEST%5D+-+%3Ctitle%3E
+    about: If you have any features you would like to add directly to your server, please upload them to the Open-Set-Go_server repository!
+
+  - name: Question
     url: https://github.com/AgainIoT/Open-Set-Go/discussions/categories/q-a
     about: Please ask and answer questions as a discussion thread
