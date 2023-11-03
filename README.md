@@ -37,7 +37,6 @@
 
 - Create beautiful documents easily and simply using Open-Set-Go's personalized template!
 
-<br>
 
 <img src="./.github/images/overview.png" alt="overview">
 
