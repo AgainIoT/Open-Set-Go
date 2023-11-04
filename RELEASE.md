@@ -1,3 +1,31 @@
+## Release 2.0.1
+
+- #68 bug fixed at AgainIoT/Open-Set-Go_client#207
+- docs url changed at AgainIoT/Open-Set-Go_server
+
+### Maintainers
+
+| ROLE         | DETAIL ROLES                                                                                      | TECH                                        | NAME                                                      |
+| ------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------- |
+| PM & TA & QA | Project Manager<br>Backend Leader<br>Open Source Manager<br>Technical Writer<br>Quality Assurance | NestJS & MongoDB & Cloud Run & Shell Script | [Yun Min Woo (ymw0407)](https://github.com/ymw0407)       |
+
+### Contributors
+
+[hwna00](https://github.com/hwna00)
+
+- [[BUG] - review's Issue Template Bug](https://github.com/AgainIoT/Open-Set-Go/issues/68)
+
+
+### Special Thanks
+
+[Minsuk Lee (minsuklee)](https://github.com/minsuklee)
+
+- helped a lot with the topic and open source.
+
+[gy741](https://github.com/gy741)
+
+- helped a lot with security problem reporting and security issues.
+
 ## Release 2.0.0
 
 - Review Feature Added!<br>
